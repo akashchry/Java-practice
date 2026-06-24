@@ -1,13 +1,13 @@
 package Basics;
 
-public class VariablesDemo {
+public class Variables_Datatype {
     public static void main(String[] args) {
 
     int age = 22;
     double salary = 10000.5;
     char grade = 'A';
     boolean status = true;
-    String name = "Akash";
+    String name = "Akash is Good Boy";
 
 
         System.out.println("Age = " + age);
